@@ -11,7 +11,7 @@
             "name": "test",
             "database": "airbnb",
             "username": "root",
-            "password": "Dirt!12345"
+            "password": "PASSWORD"
         }
     ]
 }
